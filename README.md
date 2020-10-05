@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/lumitesi/lumitesi/master/hi_emoji.gif" width="30px"></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/lumitesi/lumitesi/main/hi_emoji.gif" width="30px"></h2>
 
 ### I'm a PhD Student and Researcher based in Lisbon, Portugal.
 
@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="lumitesi.xyz" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/steve-jumping-dino.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="lumitesi | LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="lumitesi | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />][instagram]
 
 [Samoa]: https://asc.di.fct.unl.pt/~nmp/samoa/samoa.html
 [NOVA LINCS]: https://nova-lincs.di.fct.unl.pt/

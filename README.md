@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/lumitesi/lumitesi/main/hi_emoji.gif" width="30px"></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/lumitesi/lumitesi/main/hello_emoji.gif" width="30px"></h2>
 
 ### I'm a PhD Student and Researcher based in Lisbon, Portugal.
 
